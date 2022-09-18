@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Priya Negi](https://github.com/priyanegi)
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
 - [Sameed Khan](https://github.com/Sameedkhan25)
 - [Hari om Singh](https://github.com/Harixomxsingh)
